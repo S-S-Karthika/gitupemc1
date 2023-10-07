@@ -1,0 +1,6 @@
+insert -> add ->commit -> push
+git clone ->href
+cd repository_name
+git add vscode_newfilename
+git status 
+git commit -m "vscode_newfilename file add"
